@@ -6,7 +6,7 @@ export const Page1 = () => {
       <h1>Page1ページです</h1>
       <Link to="/page1/detailA">Page1DetailA</Link>
       <br />
-      <Link to="/page1/detailA">Page1DetailB</Link>
+      <Link to="/page1/detailB">Page1DetailB</Link>
     </div>
   );
 };
